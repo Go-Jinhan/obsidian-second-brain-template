@@ -1,4 +1,4 @@
-![흩어진 메모가 연결되어 한 권의 노트로 이어지는 그림](assets/second-brain-banner.png)
+![흩어진 메모가 노트 중앙의 보라색 Obsidian 로고로 연결되는 그림](assets/second-brain-banner-obsidian.png)
 
 # Obsidian Second Brain Template
 

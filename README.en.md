@@ -1,4 +1,4 @@
-![Loose notes connected to an open notebook, with books and a pencil nearby](assets/second-brain-banner.png)
+![Loose notes connected to the purple Obsidian logo on an open notebook, with books and a pencil nearby](assets/second-brain-banner-obsidian.png)
 
 # Obsidian Second Brain Template
 
