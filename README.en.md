@@ -6,7 +6,9 @@
 
 We read books, save useful articles, and jot down ideas. But when it is time to do something with them, those notes can be surprisingly hard to use. We search for something we already saved, or open a long note and wonder what mattered in it. I wanted **a collection of notes I could actually return to and use**.
 
-Tiago Forte’s *Building a Second Brain* was the starting point. *CODE* gave me a way to move from collecting information to using it; *PARA* gave me a way to organize material around the work it supports. I added the *Zettelkasten* practice of writing ideas in my own words and connecting them. Command Space’s *CMDS* materials informed the library-like organization of Resources. Kim Ik-han’s Korean book *거인의 노트* also contributed the idea of revisiting records and developing the thinking in them.
+Tiago Forte’s *Building a Second Brain* was the starting point. I used the *CODE* method to shape a flow from capturing and organizing information to distilling its essentials and using it in my work. The *PARA* organizational system helped me decide where material belonged based on how I would use it. I added the *Zettelkasten* note-taking method for writing ideas in my own words and connecting them.
+
+Command Space’s *CMDS* approach to knowledge management informed the library-like organization of Resources. Kim Ik-han’s Korean book *거인의 노트* also contributed the idea of revisiting records and developing the thinking in them.
 
 This vault brings those approaches together in Obsidian. A passing thought can become material for a project, and what that project teaches you can support the next one. I removed my personal records from the structure I use and added guides and examples. I hope it gives you a useful place to start—and something you can make your own.
 
