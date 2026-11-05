@@ -24,7 +24,7 @@ GitHub에서는 아래 링크를, Obsidian에서는 각 노트의 내부 링크�
 | Resources의 번호와 주제는 무슨 뜻인가요? | [Resources 구조와 바꾸는 방법](<20. Organize/23. Resources/_Resources.md>) |
 | 요약을 왜 각 노트의 맨 위에 쓰나요? | [Distill 작성법](<10. Capture/_Distill-핵심-추출.md>) |
 | 프로젝트 안의 세 가지 제목은 무엇인가요? | [프로젝트 사용법](<20. Organize/21. 📦Projects/_Projects.md>) |
-| 어떤 책과 학습 경험을 종합했나요? | [설계 근거와 참고 문헌](<10. Capture/_Second-Brain-설계-근거.md>) |
+| 각 구성은 어떤 역할을 하나요? | [설계 근거와 참고 문헌](<10. Capture/_Second-Brain-설계-근거.md>) |
 
 처음에는 관심 있는 자료 한 개를 기록하고, 다음에 어디에 쓸지 정해보세요. Resources의 모든 분야를 채우거나 모든 메모를 영구 노트로 만들 필요는 없습니다.
 
@@ -64,11 +64,13 @@ Periodic Notes 설정에서 아래 폴더·형식을 확인하고 각 TPL 템플
 
 ## 구조와 예시
 
+프로젝트를 시작하면 Capture·Resources·과거 프로젝트에 흩어진 자료를 해당 프로젝트 폴더로 모아 사용합니다. 끝난 뒤에는 재사용할 자료를 Resources로 옮기고, 프로젝트의 진행·결과 기록을 Archives에 보관합니다. 폴더는 정보를 고정하는 칸이 아니라 실제로 쓰이는 맥락에 따라 오가는 자리입니다.
+
 - 10. Capture: 생각과 자료의 입구, 시작 안내와 Distill 사용법
 - 20. Organize: Projects·Areas·Resources·Archives
 - 30. Express: 연결하고 재사용할 영구 노트
 
-Resources의 주제 분류는 개인적 출발점이므로 자신의 관심사에 맞춰 바꿀 수 있습니다. 폴더를 변경하면 템플릿과 설정의 이동 경로도 함께 맞춰주세요.
+Resources의 주제 분류는 조정 가능한 예시이므로 자신의 관심사에 맞춰 바꿀 수 있습니다. 폴더를 변경하면 템플릿과 설정의 이동 경로도 함께 맞춰주세요.
 
 예시는 모두 새로 작성한 가상의 내용입니다.
 
