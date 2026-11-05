@@ -1,0 +1,20 @@
+{
+  "daily": {
+    "format": "YYYY-MM-DD (ddd)",
+    "folder": "20. Organize/23. Resources/📖1000. 참고자료/📚1010. Perodic Notes/1011. Daily",
+    "template": "20. Organize/23. Resources/📖1000. 참고자료/📚1090. Setting/📚1091. Templates/TPL - Daily Note.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "GGGG-[W]WW",
+    "folder": "20. Organize/23. Resources/📖1000. 참고자료/📚1010. Perodic Notes/1012. Weekly",
+    "template": "20. Organize/23. Resources/📖1000. 참고자료/📚1090. Setting/📚1091. Templates/TPL - Weekly Note.md",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY-MM",
+    "folder": "20. Organize/23. Resources/📖1000. 참고자료/📚1010. Perodic Notes/1013. Monthly",
+    "template": "20. Organize/23. Resources/📖1000. 참고자료/📚1090. Setting/📚1091. Templates/TPL - Monthly Note.md",
+    "enabled": true
+  }
+}

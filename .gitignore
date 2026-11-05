@@ -1,0 +1,11 @@
+.DS_Store
+.obsidian/workspace*
+.obsidian/cache/
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
+.obsidian/community-plugins.json
+.obsidian/themes/
+.trash/
+.stversions/
+.env*
