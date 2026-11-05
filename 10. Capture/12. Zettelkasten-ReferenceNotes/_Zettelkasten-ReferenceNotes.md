@@ -7,8 +7,10 @@ tags:
   - 11월
 type: Reference
 source:
-  - "[[_Second-Brain-설계-근거]]"
+  - "[[_Second-Brain-Design]]"
 ---
+
+**한국어** · [English](<_Zettelkasten-ReferenceNotes.en.md>)
 
 > [!abstract] Distill(추출, 요약)
 > - Reference Note는 **자료의 출처와 내가 이해한 내용을 함께 남기는 기록**이다.

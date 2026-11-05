@@ -8,6 +8,8 @@ source:
   - "[[_Projects]]"
 ---
 
+**한국어** · [English](<📦P-Example Reading Experiment.en.md>)
+
 ## Twyla Tharp First Memo
 
 목적: 읽은 내용을 실제로 다시 사용하는 습관을 만들기.
@@ -16,7 +18,7 @@ source:
 
 ## Project Progress
 
-준비 단계에서는 [[예시 - 헤밍웨이 다리 참고 기록|예시 - The Hemingway Bridge 참고 기록]]과 기존 독서 메모에서 필요한 내용을 살핀다. 실험에 직접 쓸 자료는 이 프로젝트 폴더로 모아 기록 양식과 함께 다룬다.
+준비 단계에서는 [[Example - The Hemingway Bridge|예시 - The Hemingway Bridge 참고 기록]]과 기존 독서 메모에서 필요한 내용을 살핀다. 실험에 직접 쓸 자료는 이 프로젝트 폴더로 모아 기록 양식과 함께 다룬다.
 
 실험이 끝나면 다시 쓸 기록법과 양식은 Resources로 옮기고, 실험의 진행·결과 기록은 Archives에 보관한다.
 - [ ] 첫 독서 기록 만들기

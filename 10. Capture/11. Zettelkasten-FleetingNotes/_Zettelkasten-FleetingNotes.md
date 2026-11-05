@@ -7,8 +7,10 @@ tags:
   - 11월
 type: Reference
 source:
-  - "[[_Second-Brain-설계-근거]]"
+  - "[[_Second-Brain-Design]]"
 ---
+
+**한국어** · [English](<_Zettelkasten-FleetingNotes.en.md>)
 
 > [!abstract] Distill(추출, 요약)
 > - Fleeting Note는 **미완성 생각을 잃어버리지 않기 위한 메모**다.

@@ -13,6 +13,8 @@ source:
   - "[[TPL - Basic Note]]"
 ---
 
+**한국어** · [English](<_Capture.en.md>)
+
 > [!abstract] Distill(추출, 요약)
 > - Capture는 **기록할 위치를 고민하다 생각을 놓치지 않도록 마련한 입구**다.
 > - 내 생각은 Fleeting, 외부 자료는 Reference에 적고, 나중에 사용할 곳을 정한다.

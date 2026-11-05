@@ -5,8 +5,10 @@ type: Permanent
 tags:
   - 예시
 source:
-  - "[[예시 - 헤밍웨이 다리 참고 기록]]"
+  - "[[Example - The Hemingway Bridge]]"
 ---
+
+**한국어** · [English](<Example - A Next Action Makes Restarting Easier.en.md>)
 
 ## 핵심 생각
 
@@ -14,11 +16,11 @@ source:
 
 ## 근거와 설명
 
-[[예시 - 헤밍웨이 다리 참고 기록|예시 - The Hemingway Bridge 참고 기록]]의 개념을 자기 말로 발전시킨 설명용 예시다. 독립적인 실험 결과나 보편적인 효과를 입증한 주장은 아니다.
+[[Example - The Hemingway Bridge|예시 - The Hemingway Bridge 참고 기록]]의 개념을 자기 말로 발전시킨 설명용 예시다. 독립적인 실험 결과나 보편적인 효과를 입증한 주장은 아니다.
 
 ## 관련 생각
 
-[[예시 - 다음 행동을 남기는 아이디어]]에서 시작한 질문을 [[📦P-예시 독서 기록 실험]]에서 확인해볼 수 있다.
+[[Example - Leave a Next Action]]에서 시작한 질문을 [[📦P-Example Reading Experiment]]에서 확인해볼 수 있다.
 
 ## 활용과 적용 조건
 

@@ -13,6 +13,8 @@ source:
   - "[[TPL - Basic Note]]"
 ---
 
+**한국어** · [English](<_Distill.en.md>)
+
 > [!abstract] Distill(추출, 요약)
 > - Distill은 **미래의 내가 긴 노트를 다시 읽기 전에 핵심을 알아볼 수 있게 하는 일**이다.
 > - 핵심을 노트 맨 앞에 두고 상세한 내용과 출처는 아래에 남긴다.

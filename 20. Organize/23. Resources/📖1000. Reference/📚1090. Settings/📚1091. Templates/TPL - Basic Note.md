@@ -29,10 +29,10 @@ let bookRatingInput = "";
 
 if (typeVal === "Project") {
   projectNameInput = (await tp.system.prompt("프로젝트 이름을 입력하세요:") || "").replace(/[\\/:*?"<>|]/g, "-").replace(/\[\[|\]\]/g, "").replace(/[\r\n\t]/g, " ").trim();
-  newFileName = `📦P-${projectNameInput || "무제 프로젝트"}`;
+  newFileName = `📦P-${projectNameInput || "Untitled Project"}`;
 } else if (typeVal === "Book") {
   bookNameInput = (await tp.system.prompt("책 제목을 입력하세요:") || "").replace(/[\\/:*?"<>|]/g, "-").replace(/\[\[|\]\]/g, "").replace(/[\r\n\t]/g, " ").trim();
-  newFileName = `📓B-${bookNameInput || "무제 책"}`;
+  newFileName = `📓B-${bookNameInput || "Untitled Book"}`;
 
   // status 선택창 (이모지 포함 리스트)
   const statusLabels = ["📖 Reading (읽는 중)", "✅ Completed (완독)", "💤 Paused (독서 중단)", "📌 To Read (읽을 예정)"];
@@ -98,7 +98,7 @@ content += "---\n";
 
 // 타입별 본문 구성
 if (typeVal === "Project") {
-  content += `## ${projectNameInput || "무제 프로젝트"}\n\n`;
+  content += `## ${projectNameInput || "Untitled Project"}\n\n`;
   content += `## Twyla Tharp First Memo\n\n`;
   content += `## Project Progress\n\n`;
   content += `## The Hemingway Bridge\n`;
@@ -132,7 +132,7 @@ if (typeVal === "Idea") {
   targetFolderPath = "10. Capture/12. Zettelkasten-ReferenceNotes";
 } else if (typeVal === "Book") {
   // 대상 폴더 경로 (Vault 루트 기준)
-  targetFolderPath = "20. Organize/23. Resources/📖500. 인문학과 지식/📚501. Books";
+  targetFolderPath = "20. Organize/23. Resources/📖500. Humanities and Knowledge/📚501. Books";
 } else if (typeVal === "Project") {
   // 대상 폴더 경로 (Vault 루트 기준)
   targetFolderPath = "20. Organize/21. 📦Projects";

@@ -10,8 +10,10 @@ tags:
 type: Reference
 source:
   - "티아고 포르테, 『세컨드 브레인』: 세컨드 브레인 5장 - 실행을 목표로 정리하라"
-  - "[[_Second-Brain-설계-근거]]"
+  - "[[_Second-Brain-Design]]"
 ---
+
+**한국어** · [English](<_Organize.en.md>)
 
 > [!abstract] Distill(추출, 요약)
 > - Organize에서는 **이 정보가 어디에 쓰일지**를 기준으로 자리를 정한다.

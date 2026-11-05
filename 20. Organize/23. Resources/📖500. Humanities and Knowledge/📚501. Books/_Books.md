@@ -10,8 +10,10 @@ tags:
 type: Reference
 source:
   - "[[TPL - Basic Note]]"
-  - "[[_Second-Brain-설계-근거]]"
+  - "[[_Second-Brain-Design]]"
 ---
+
+**한국어** · [English](<_Books.en.md>)
 
 > [!abstract] Distill(추출, 요약)
 > - 책 노트는 **책을 읽으며 생긴 질문과 생각을 다시 찾아가는 출발점**이다.
